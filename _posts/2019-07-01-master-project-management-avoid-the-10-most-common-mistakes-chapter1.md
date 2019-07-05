@@ -8,6 +8,12 @@ title: Master Project Management - Avoid the 10 Most Common Mistakes. Chapter 1
 - Finish the tutorial
 - Fix grammar
 
+# About
+
+- Self study about project management
+- Taken online courses at skillshare
+- This going to focus on APM
+
 # Learning source
 
 This note is taken from this course in Skillshare. Check it out if you are interested 
@@ -47,9 +53,10 @@ Is a project when met any of this criteria
 - Flexible. Can change along the development
 - But no actual planning
 
-## APM / PMI (Association of Project management)
+## APM (associate in project management)
 
-- TO BE CONTINUE
+- Known as standard waterfall / gantt chart
+- Also known as PMI (project management institute)
 
 # 10 common mistakes
 
