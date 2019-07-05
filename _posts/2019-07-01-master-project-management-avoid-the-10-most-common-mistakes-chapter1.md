@@ -7,12 +7,15 @@ title: Master Project Management - Avoid the 10 Most Common Mistakes. Chapter 1
 
 - Finish the tutorial
 - Fix grammar
+- Make few pages. 1 is Glossary, 1 is self introduction. 1 is start the courses it self, chapter 1: introdcution
+
+# Welcome
 
 # About
 
 - Self study about project management
 - Taken online courses at skillshare
-- This going to focus on APM
+- Focus on APM (associate in project management). There are many types of project methodology, but in this notes i am going to focus on APM 
 
 # Learning source
 
@@ -21,6 +24,14 @@ This note is taken from this course in Skillshare. Check it out if you are inter
 - Source: Skillshare
 - Coach: Chris Croft
 - URL: https://skl.sh/32elCOC
+
+# CHAPTER 1: Introduction
+
+What topic we going to cover
+
+- Introduction
+- Briefly touch about project management
+- And type of project management methodology
 
 # What is project
 
@@ -35,11 +46,7 @@ Is a project when met any of this criteria
 - Have a "kickoff" meeting. To get every stakeholder agree about what we going to deliver
 - Be "assertive" during kickoff meeting. Looks confident but dont promise things that is impossible
 
-# APM
-
-- TODO
-
-# Type of project management (PM)
+# Project management methodology
 
 ## Prince 2
 
@@ -58,6 +65,14 @@ Is a project when met any of this criteria
 - Known as standard waterfall / gantt chart
 - Also known as PMI (project management institute)
 
-# 10 common mistakes
+# CHAPTER 2: 12 step process
 
-- TO BE CONTINUE
+We going to focus on APO
+
+# What is this about
+
+- Focus on APM
+- Key parts of APM process
+- Focus on small project
+
+## Step 1
