@@ -43,6 +43,12 @@ Is a project when met any of this criteria
 
 ## Agile
 
+- Good if requirement not confirmed
+- Flexible. Can change along the development
+- But no actual planning
+
+## APM / PMI (Association of Project management)
+
 - TO BE CONTINUE
 
 # 10 common mistakes
