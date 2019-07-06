@@ -69,6 +69,10 @@ We going to focus on APO
 - Focus on APM
 - Key parts of APM process
 - Focus on small project
+- Step 1: Start
+- Step 2 - 8: Planning
+- Step 9 - 11: Monitoring
+- Step 12: Review
 
 ## Step 1: Define the project
 
@@ -92,14 +96,34 @@ We going to focus on APO
 - Actual working in hours. Elapses is weeks
 - TODO: What is Elapses time?
 
-## Step 4: Put traskl in a running order
+## Step 4: Put trask in a running order
 
 - The output should be: Project network diagram
 - Picture of network diagram: https://inlooxcdn.azureedge.net/var/corporate_site/storage/images/media/images/blog/netzplan/back-to-basics-10-netzplan-schritt-6-2-freier-puffer/1297512-2-eng-GB/back-to-basics-10-netzplan-schritt-6-2-freier-puffer.png
 - https://www.inloox.com/company/blog/articles/back-to-basics-part-10-how-to-create-a-project-network-diagram/
 
-## Step 5: 
+## Step 5: Speed up network diagram
 
-## Step 6: 
+## Step 6: Do Gantt chart
 
-## Step 7: 
+## Step 7: Resources allocation
+
+## Step 8: Risk
+
+- Measure likelihood & seriousness
+- Example: Rain is very likely but not serious. Earthquake is very serious but not very likely
+- Risk & mitigation of risk
+
+## Step 9: Monitor timeline
+
+## Step 10: Monitor spending
+
+## Step 11: Adjust planning
+
+## Step 12: Rigid the plan
+
+- Handling requirement change
+
+## Step 13: Review everything
+
+- Write everything you learn
