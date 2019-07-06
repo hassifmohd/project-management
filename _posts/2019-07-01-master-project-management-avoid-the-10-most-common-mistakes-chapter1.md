@@ -41,11 +41,6 @@ Is a project when met any of this criteria
 - More than 10 tasks
 - More than 1 person
 
-# Kick-off meeting
-
-- Have a "kickoff" meeting. To get every stakeholder agree about what we going to deliver
-- Be "assertive" during kickoff meeting. Looks confident but dont promise things that is impossible
-
 # Project management methodology
 
 ## Prince 2
@@ -75,4 +70,36 @@ We going to focus on APO
 - Key parts of APM process
 - Focus on small project
 
-## Step 1
+## Step 1: Define the project
+
+- Write down what are we going to do
+- Also good to write down what we not going to do
+- Make sure the writing get approval from stakeholders
+- Done during kick-off meeting
+
+## Kick-off meeting
+
+- Have a "kickoff" meeting. To get every stakeholder agree about what we going to deliver
+- Be "assertive" during kickoff meeting. Looks confident but dont promise things that is impossible
+
+## Step 2: List all the task
+
+- TODO: But how detail? Refer Lecture no.8
+
+## Step 3: Estimate the time and cost for each task
+
+- Time can be 2. Actual working and Elapses time (eg: waiting raw material to arrive)
+- Actual working in hours. Elapses is weeks
+- TODO: What is Elapses time?
+
+## Step 4: Put traskl in a running order
+
+- The output should be: Project network diagram
+- Picture of network diagram: https://inlooxcdn.azureedge.net/var/corporate_site/storage/images/media/images/blog/netzplan/back-to-basics-10-netzplan-schritt-6-2-freier-puffer/1297512-2-eng-GB/back-to-basics-10-netzplan-schritt-6-2-freier-puffer.png
+- https://www.inloox.com/company/blog/articles/back-to-basics-part-10-how-to-create-a-project-network-diagram/
+
+## Step 5: 
+
+## Step 6: 
+
+## Step 7: 
