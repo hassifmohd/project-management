@@ -127,3 +127,29 @@ We going to focus on APO
 ## Step 13: Review everything
 
 - Write everything you learn
+
+# CHAPTER 3: Top 10 mistakes
+
+## Mistake 1: Having the plan in your head
+
+- Might get too complicated
+- To present to others, your superior and subordinate
+
+### Mistake 1 solution: Draw "Network diagram"
+
+- TODO: Still WIP
+- List all task. 
+- Self add: To list all task, start from result and backtrack to the beginning
+- Estimate time per task
+- Put all task into post-it-notes
+- Link all path for each notes
+- Get the longest path known as Critical path
+
+### Mistake 1 solution: Draw "Gantt Chart"
+
+- From the network diagram. Draw the Critical path
+- After that draw floating task
+
+## Mistake 2: 
+
+## Mistake 3: 
