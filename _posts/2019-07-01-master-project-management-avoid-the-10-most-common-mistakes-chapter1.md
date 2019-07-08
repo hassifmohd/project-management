@@ -144,6 +144,7 @@ We going to focus on APO
 - Put all task into post-it-notes
 - Link all path for each notes
 - Get the longest path known as Critical path
+- TODO: Find network diagram tutorial, example but not nice https://www.youtube.com/watch?v=bobDz_Bh3tI
 
 ### Mistake 1 solution: Draw "Gantt Chart"
 
@@ -153,3 +154,8 @@ We going to focus on APO
 ## Mistake 2: 
 
 ## Mistake 3: 
+
+# Others
+
+- This posting is powerd by [jekyll](https://jekyllrb.com/)
+- To run in localhost, execute command `bundle exec jekyll serve`
