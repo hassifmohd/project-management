@@ -96,7 +96,7 @@ We going to focus on APO
 - Actual working in hours. Elapses is weeks
 - TODO: What is Elapses time?
 
-## Step 4: Put trask in a running order
+## Step 4: Put task in a running order
 
 - The output should be: Project network diagram
 - Picture of network diagram: https://inlooxcdn.azureedge.net/var/corporate_site/storage/images/media/images/blog/netzplan/back-to-basics-10-netzplan-schritt-6-2-freier-puffer/1297512-2-eng-GB/back-to-basics-10-netzplan-schritt-6-2-freier-puffer.png
@@ -162,7 +162,27 @@ We going to focus on APO
 - Do network diagram and only can say "YES"
 - Then you can also say "NO" or "YES" if we skip this task
 
-## Mistake 3: 
+## Mistake 3: Answering killer question
+
+- If asked "How fast it can finish" NEVER answer the best scenario
+
+## Mistake 3 solution: Avoid answering the question directly
+
+- Avoid answer the question directly
+- Give more realistic answer like with buffer
+
+## Mistake 4: Not involving with teams
+
+- When do task, only do by your self. You should involve the team together in every aspect
+- This is important to digest, re-watch this tutorial!! <-- TODO
+
+## Mistake 4 solution: Let team involve
+
+Example
+
+- List all the task & Put task in a running order = Do brainstorm
+- Estimate = Ask each team to do estimation
+- TODO: List all the task and suggest how to involve team
 
 # Others
 
