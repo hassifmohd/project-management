@@ -184,6 +184,20 @@ Example
 - Estimate = Ask each team to do estimation
 - TODO: List all the task and suggest how to involve team
 
+## Mistake 5: Listing only the task
+
+- Means no Gantt chart
+- Means not proper plan and risky
+
+## Mistake 5 solution: Do a Gantt chart
+
+- Do a Gantt chart. Here few example of TODO TODO
+- 20% No plan at all
+- 25% Plan in one person head
+- 25% Plan is in the list, not Gantt chart
+- 20% Have Gantt chart but no Critical path or not proper
+- 10% properly done!
+
 # Others
 
 - This posting is powerd by [jekyll](https://jekyllrb.com/)
