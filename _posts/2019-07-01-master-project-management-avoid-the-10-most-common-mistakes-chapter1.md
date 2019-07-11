@@ -150,8 +150,17 @@ We going to focus on APO
 
 - From the network diagram. Draw the Critical path
 - After that draw floating task
+- TODO: Watch BONUS section to check how to do detail Gantt Chart
 
-## Mistake 2: 
+## Mistake 2: Saying "Maybe" or "I will try"
+
+- It means saying "YES"
+- You will suffer at the end
+
+### Mistake 2 solution: Draw "Network diagram before answer"
+
+- Do network diagram and only can say "YES"
+- Then you can also say "NO" or "YES" if we skip this task
 
 ## Mistake 3: 
 
