@@ -198,6 +198,29 @@ Example
 - 20% Have Gantt chart but no Critical path or not proper
 - 10% properly done!
 
+## Mistake 6: Not planning across project
+
+- Not keep track or manage of multiple project
+
+## Mistake 6: Do Gantt chart combination
+
+- If you have multiple project, then you need to combine all Cantt chart
+- TODO: put picture as example
+- Can see how many project running at the same time
+- Can quickly get update each projects status
+- Can see future project bottle neck
+- This is good for Boss, PM and Team
+
+## Mistake 7: Stories VS Gantt chart
+
+- Telling project progress using stories instead of coloured in Gantt chart
+- Because we can tell the current progress but we did not tell what the progress should be
+- If people tell stories can be dangerous because they could be hiding something
+
+## Mistake 7 solution: Do a coloured in Gantt chart
+
+- Tell current progress VS what progress should be. To see project is keeping up
+
 # Others
 
 - This posting is powerd by [jekyll](https://jekyllrb.com/)
