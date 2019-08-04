@@ -7,19 +7,19 @@ title: Master Project Management - Avoid the 10 Most Common Mistakes. Chapter 1
 
 - Finish the tutorial
 - Fix grammar
-- Make few pages. 1 is Glossary, 1 is self introduction. 1 is start the courses it self, chapter 1: introdcution
+- Make a few pages. One is Glossary, 1 is self-introduction. 1 starts the courses itself, chapter 1: introduction
 
 # Welcome
 
 # About
 
-- Self study about project management
+- Self-study about project management
 - Taken online courses at skillshare
-- Focus on APM (associate in project management). There are many types of project methodology, but in this notes i am going to focus on APM 
+- Focus on APM (associate in project management). There are many types of project methodology, but in these notes, I am going to focus on APM 
 
 # Learning source
 
-This note is taken from this course in Skillshare. Check it out if you are interested 
+This note takes from this course on Skillshare. Check it out if you are interested. 
 
 - Source: Skillshare
 - Coach: Chris Croft
@@ -27,48 +27,48 @@ This note is taken from this course in Skillshare. Check it out if you are inter
 
 # CHAPTER 1: Introduction
 
-What topic we going to cover
+What topic we are going to cover
 
 - Introduction
 - Briefly touch about project management
-- And type of project management methodology
+- Also, the type of project management methodology
 
-# What is project
+# What is a project
 
-Is a project when met any of this criteria 
+Is a project when met any of these criteria 
 
-- Take more then 2 weeks
-- More than 10 tasks
-- More than 1 person
+- Take more than two weeks
+- More than ten tasks
+- More than one person
 
 # Project management methodology
 
 ## Prince 2
 
-- A high level framework. To ensure we have a plan before we start a project
-- Only tell you "what you need to have" but not specifically "how you going to do it"
+- A high-level framework. To ensure we have a plan before we start a project
+- Only tell you "what you need to have" but not specifically "how you going to do it."
 - Because of that, you can use APM inside Prince2
 
 ## Agile
 
 - Good if requirement not confirmed
-- Flexible. Can change along the development
-- But no actual planning
+- Flexible. Can change along with the development
+- However, no actual planning
 
 ## APM (associate in project management)
 
-- Known as standard waterfall / gantt chart
+- Known as the standard waterfall / Gantt chart
 - Also known as PMI (project management institute)
 
 # CHAPTER 2: 12 step process
 
-We going to focus on APO
+We are going to focus on APO.
 
 # What is this about
 
 - Focus on APM
-- Key parts of APM process
-- Focus on small project
+- Critical parts of the APM process
+- Focus on a small project
 - Step 1: Start
 - Step 2 - 8: Planning
 - Step 9 - 11: Monitoring
@@ -77,14 +77,14 @@ We going to focus on APO
 ## Step 1: Define the project
 
 - Write down what are we going to do
-- Also good to write down what we not going to do
+- Also good to write down what we are not going to do
 - Make sure the writing get approval from stakeholders
-- Done during kick-off meeting
+- Done during a kick-off meeting
 
 ## Kick-off meeting
 
-- Have a "kickoff" meeting. To get every stakeholder agree about what we going to deliver
-- Be "assertive" during kickoff meeting. Looks confident but dont promise things that is impossible
+- Have a "kickoff" meeting. To get every stakeholder to agree about what we are going to deliver
+- Be "assertive" during the kickoff meeting. Looks confident but don't promise impossible things
 
 ## Step 2: List all the task
 
@@ -92,17 +92,17 @@ We going to focus on APO
 
 ## Step 3: Estimate the time and cost for each task
 
-- Time can be 2. Actual working and Elapses time (eg: waiting raw material to arrive)
+- Time can be 2. Actual working and Elapses time (example waiting for raw material to arrive)
 - Actual working in hours. Elapses is weeks
 - TODO: What is Elapses time?
 
-## Step 4: Put task in a running order
+## Step 4: Put the task in a running order
 
 - The output should be: Project network diagram
 - Picture of network diagram: https://inlooxcdn.azureedge.net/var/corporate_site/storage/images/media/images/blog/netzplan/back-to-basics-10-netzplan-schritt-6-2-freier-puffer/1297512-2-eng-GB/back-to-basics-10-netzplan-schritt-6-2-freier-puffer.png
 - https://www.inloox.com/company/blog/articles/back-to-basics-part-10-how-to-create-a-project-network-diagram/
 
-## Step 5: Speed up network diagram
+## Step 5: Speed up a network diagram
 
 ## Step 6: Do Gantt chart
 
@@ -111,7 +111,7 @@ We going to focus on APO
 ## Step 8: Risk
 
 - Measure likelihood & seriousness
-- Example: Rain is very likely but not serious. Earthquake is very serious but not very likely
+- Example: Rain is very likely but not critical. Earthquake is critical but not very likely
 - Risk & mitigation of risk
 
 ## Step 9: Monitor timeline
@@ -135,111 +135,111 @@ We going to focus on APO
 - Might get too complicated
 - To present to others, your superior and subordinate
 
-### Mistake 1 solution: Draw "Network diagram"
+### Mistake 1 solution: Draw  a Network diagram
 
 - TODO: Still WIP
 - List all task. 
-- Self add: To list all task, start from result and backtrack to the beginning
+- TODO: Self adds: To list all task, start from result and backtrack to the beginning
 - Estimate time per task
 - Put all task into post-it-notes
-- Link all path for each notes
+- Link all path for each note
 - Get the longest path known as Critical path
 - TODO: Find network diagram tutorial, example but not nice https://www.youtube.com/watch?v=bobDz_Bh3tI
 
-### Mistake 1 solution: Draw "Gantt Chart"
+### Mistake 1 solution: Draw Gantt Chart
 
 - From the network diagram. Draw the Critical path
 - After that draw floating task
 - TODO: Watch BONUS section to check how to do detail Gantt Chart
 
-## Mistake 2: Saying "Maybe" or "I will try"
+## Mistake 2: Saying "Maybe" or "I will try."
 
-- It means saying "YES"
+- It means saying, "YES."
 - You will suffer at the end
 
-### Mistake 2 solution: Draw "Network diagram before answer"
+### Mistake 2 solution: Draw "Network diagram before answer."
 
-- Do network diagram and only can say "YES"
+- Do network diagram and only can say "YES."
 - Then you can also say "NO" or "YES" if we skip this task
 
 ## Mistake 3: Answering killer question
 
-- If asked "How fast it can finish" NEVER answer the best scenario
+- If you asked "How fast it can finish" NEVER answer the best scenario
 
 ## Mistake 3 solution: Avoid answering the question directly
 
 - Avoid answer the question directly
-- Give more realistic answer like with buffer
+- Give a more realistic answer like with buffer
 
 ## Mistake 4: Not involving with teams
 
-- When do task, only do by your self. You should involve the team together in every aspect
-- This is important to digest, re-watch this tutorial!! <-- TODO
+- When you do a task, only do by your self. It would be best if you involved the team together in every aspect
+- TODO: important to digest, re-watch this tutorial
 
-## Mistake 4 solution: Let team involve
+## Mistake 4 solution: Let the team involve
 
 Example
 
-- List all the task & Put task in a running order = Do brainstorm
+- List all the task & Put the task in a running order = Do brainstorm
 - Estimate = Ask each team to do estimation
 - TODO: List all the task and suggest how to involve team
 
 ## Mistake 5: Listing only the task
 
 - Means no Gantt chart
-- Means not proper plan and risky
+- Means not properly plan and risky
 
 ## Mistake 5 solution: Do a Gantt chart
 
-- Do a Gantt chart. Here few example of TODO TODO
+- Do a Gantt chart. Here few examples of TODO TODO
 - 20% No plan at all
 - 25% Plan in one person head
-- 25% Plan is in the list, not Gantt chart
+- 25% Plan is in the list, no Gantt chart
 - 20% Have Gantt chart but no Critical path or not proper
 - 10% properly done!
 
 ## Mistake 6: Not planning across project
 
-- Not keep track or manage of multiple project
+- Not keep track or manage multiple projects
 
 ## Mistake 6: Do Gantt chart combination
 
-- If you have multiple project, then you need to combine all Cantt chart
-- TODO: put picture as example
-- Can see how many project running at the same time
-- Can quickly get update each projects status
-- Can see future project bottle neck
-- This is good for Boss, PM and Team
+- If you have multiple projects, then you need to combine all Cantt chart
+- TODO: put the picture as an example
+- Can see how many projects running at the same time
+- Can quickly get an update for each project's status
+- Can see future project bottleneck
+- Gantt chart combination is usable for Boss, PM, and Team
 
 ## Mistake 7: Stories VS Gantt chart
 
-- Telling project progress using stories instead of coloured in Gantt chart
-- Because we can tell the current progress but we did not tell what the progress should be
+- Telling project progress using stories instead of colored in Gantt chart
+- Because we say "we were making much progress," but we did not explain what the progress should be
 - If people tell stories can be dangerous because they could be hiding something
 
-## Mistake 7 solution: Do a coloured in Gantt chart
+## Mistake 7 solution: Do a colored in Gantt chart
 
-- Tell current progress VS what progress should be. To see project is keeping up
+- Tell current progress VS what progress should be. To see the project is keeping up
 
 ## Mistake 8: Thinking underspend is ok
 
-- This is a sign that the project is behind schedule
+- Underspend is a sign that the project is behind schedule
 
-## Mistake 8 solution: Check coloured Gantt chart
+## Mistake 8 solution: Check the colored Gantt chart
 
 - Check do underspend VS progress is matching
 
 ## Mistake 9: Rescheduling too late
 
-- Meaning, near delivery date customer get bad news. Project will be delayed
+- Meaning, approaching the delivery date and the customer gets a bad new which is the project delay
 - Project manager reschedule late because they hope for a miracle
 
 ## Mistake 9 solution: Confess early & take action
 
-- The big point is "no suprises"
+- The significant point is "no surprises."
 - Update customer and upper management early
-- Take action, example: extend due date, increase manpower or reduce requirement
-- If the first half of project has problem. Second half will too. Identify the problem and take action to prevent it happen again. It can be your plan or your team
+- Take action, example: extend the due date, increase manpower or reduce the requirement
+- If the first half of the project has problems. The second half will too. Identify the problem and take action to prevent it happen again. It can be your plan or your team
 
 ## Mistake 10: Not do project review
 
@@ -248,25 +248,25 @@ Can be many reasons
 | Reasons | Counter |
 |---|---|
 | Busy, no time and take cost | Part of project management |
-| Dont want to reveal our mistake | Make it anonymous |
+| Don't want to reveal our mistake | Make it anonymous |
 | Assume project is unique, no need review | Can happen in future |
-| Think not benefiting you | It benefit the company |
+| Think not benefiting you | It benefits the company |
 | Nobody going to read | Share it with people |
 
 ## Mistake 10 solution: Do project review
 
-Do project review. One of the trick is make a sociable occasion like meetup with food.
+Do project review. One of the tricks is to make a sociable occasion like a meetup with lunch.
 
-- Do review within 2 weeks
+- Do review within two weeks
 - What is good
 - What is bad
 - How to make the project better
-- Use opportunity to thank people
+- Use the opportunity to thank people
 - Summarize in one page
 
 TODO: Example, downloadable in the lecture
 
 # Others
 
-- This posting is powerd by [jekyll](https://jekyllrb.com/)
-- To run in localhost, execute command `bundle exec jekyll serve`
+- This posting build by [jekyll](https://jekyllrb.com/)
+- To run in localhost, execute the command `bundle exec jekyll serve`
