@@ -221,6 +221,51 @@ Example
 
 - Tell current progress VS what progress should be. To see project is keeping up
 
+## Mistake 8: Thinking underspend is ok
+
+- This is a sign that the project is behind schedule
+
+## Mistake 8 solution: Check coloured Gantt chart
+
+- Check do underspend VS progress is matching
+
+## Mistake 9: Rescheduling too late
+
+- Meaning, near delivery date customer get bad news. Project will be delayed
+- Project manager reschedule late because they hope for a miracle
+
+## Mistake 9 solution: Confess early & take action
+
+- The big point is "no suprises"
+- Update customer and upper management early
+- Take action, example: extend due date, increase manpower or reduce requirement
+- If the first half of project has problem. Second half will too. Identify the problem and take action to prevent it happen again. It can be your plan or your team
+
+## Mistake 10: Not do project review
+
+Can be many reasons
+
+| Reasons | Counter |
+|---|---|
+| Busy, no time and take cost | Part of project management |
+| Dont want to reveal our mistake | Make it anonymous |
+| Assume project is unique, no need review | Can happen in future |
+| Think not benefiting you | It benefit the company |
+| Nobody going to read | Share it with people |
+
+## Mistake 10 solution: Do project review
+
+Do project review. One of the trick is make a sociable occasion like meetup with food.
+
+- Do review within 2 weeks
+- What is good
+- What is bad
+- How to make the project better
+- Use opportunity to thank people
+- Summarize in one page
+
+TODO: Example, downloadable in the lecture
+
 # Others
 
 - This posting is powerd by [jekyll](https://jekyllrb.com/)
